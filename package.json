@@ -1,0 +1,23 @@
+{
+  "name": "silvermist-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanda-posey/silvermist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanda-posey/silvermist/issues"
+  },
+  "homepage": "https://github.com/amanda-posey/silvermist#readme",
+  "dependencies": {
+    "bulma-start": "^0.0.4"
+  }
+}
